@@ -10,7 +10,7 @@ require("dotenv").config();
 
 // Middleware
 const corsOptions = {
-    origin: ["http://localhost:5173","https://01293bs7-5173.inc1.devtunnels.ms"], // Allow only your frontend (React app)
+    origin: ["http://localhost:5173"], // Allow only your frontend (React app)
     methods: ["GET", "POST"], // Restrict to these methods
     allowedHeaders: ["Content-Type"], // Only allow certain headers
 };
