@@ -2,6 +2,16 @@
 
 This is the backend API for the **Markdown Editor**. It provides an endpoint to convert **Markdown to HTML** using `marked.js` and is built with **Node.js**, **Express**, and **Worker Threads**.
 
+---
+
+## 📌 Prerequisites
+
+Ensure you have the following installed before proceeding:
+
+- **Node.js** – [Download Here](https://nodejs.org/)
+- **npm** (Node Package Manager) – Comes with Node.js
+
+---
 
 ## 📂 1. Clone the Repository
 If this project is hosted on GitHub, clone it using:
