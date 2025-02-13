@@ -62,3 +62,7 @@ http://localhost:8000/
 ```sh
 ✅ Server is running!
 ```
+
+## 🎯 Conclusion
+The backend is now set up and running on http://localhost:8000/.
+You can test API endpoints using Postman or a browser.
